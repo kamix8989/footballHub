@@ -1,0 +1,13 @@
+body
+{
+    min-height: 100vh;
+    background: rgba(255, 0, 0, 0.212);
+}
+.top {
+    background: linear-gradient(#fff, rgb(255, 0, 0));
+    border: 3px solid #acacac;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+}
